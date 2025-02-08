@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ana",
+        "edad": 20,
+        "grado": 3,
+        "especialidad": "Biologia"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Carlos",
+        "edad": 21,
+        "grado": 3,
+        "especialidad": "Fisica"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Diana",
+        "edad": 22,
+        "grado": 4,
+        "especialidad": "Quimica"
+    }
+
+]
